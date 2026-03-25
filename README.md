@@ -41,4 +41,4 @@ TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 5. Run `python src/chatgpt.py` to start the bot
 6. Open Telegram and search for your bot username
-7. Start a conversation with your bot and enjoy!
+7. Start a conversation with your bot and enjoy!.
